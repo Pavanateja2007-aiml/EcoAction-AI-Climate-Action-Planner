@@ -1,0 +1,6 @@
+{
+  "name": "EcoAction AI - Climate Action Planner",
+  "description": "An AI-powered localized climate action planning or decision support app aligning with SDG 13 (Climate Action) for the 1M1B Sustainability Virtual Internship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
